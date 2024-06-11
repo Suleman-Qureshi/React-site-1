@@ -1,3 +1,11 @@
+# React-site-1
+
+# Soft-land
+
+to visit the web-site click the link given below :
+https://react-site-1-gules.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
